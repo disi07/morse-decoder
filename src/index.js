@@ -1,4 +1,4 @@
-const MORSE_TABLE = {
+/*const MORSE_TABLE = {
     '.-': 'a',
     '-...': 'b',
     '-.-.': 'c',
@@ -66,4 +66,4 @@ function decode(expr) {
 
 module.exports = {
     decode
-}
+}*/
